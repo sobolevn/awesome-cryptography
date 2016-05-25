@@ -1,6 +1,8 @@
 # Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of cryptography resources and links
+[![Build Status](https://travis-ci.org/sobolevn/awesome-cryptography.svg)](https://travis-ci.org/sobolevn/awesome-cryptography)
+
+A curated list of cryptography resources and links.
 
 <!--lint disable alphabetize-lists-->
 

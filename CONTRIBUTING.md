@@ -48,5 +48,5 @@ To execute them:
 ```shell
 $ gem install awesome_bot
 $ npm install
-$ node test && awesome_bot -f README.md -t 10 --allow-redirect
+$ npm test && awesome_bot -f README.md -t 10 --allow-redirect
 ```

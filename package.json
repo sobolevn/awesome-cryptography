@@ -33,8 +33,7 @@
         "list-item-indent": "space",
         "no-tabs": null,
         "external": [
-          "remark-lint-alphabetize-lists",
-          "remark-validate-links"
+          "remark-lint-alphabetize-lists"
         ]
       }
     },
