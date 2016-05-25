@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- '5.0'
+sudo: false
+
+install:
+  - gem install awesome_bot
+  - npm install
+
+script:
+	- awesome_bot -f README.md -t 10 --allow-redirect
+  - node test

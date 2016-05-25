@@ -1,0 +1,45 @@
+{
+  "name": "awesome-cryptography",
+  "version": "1.0.0",
+  "description": "A curated list of cryptography resources and links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/remark/bin/remark README.md CONTRIBUTING.md -f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobolevn/awesome-cryptography.git"
+  },
+  "keywords": [
+    "awesome-list",
+    "awesome",
+    "cryptography"
+  ],
+  "author": "sobolevn",
+  "license": "CC-BY-1.0",
+  "bugs": {
+    "url": "https://github.com/sobolevn/awesome-cryptography/issues"
+  },
+  "homepage": "https://github.com/sobolevn/awesome-cryptography#readme",
+  "dependencies": {
+    "remark": "^4.2.2",
+    "remark-lint": "^3.2.1",
+    "remark-lint-alphabetize-lists": "^1.0.4"
+  },
+  "remarkConfig": {
+    "plugins": {
+      "lint": {
+        "maximum-line-length": 350,
+        "list-item-indent": "space",
+        "no-tabs": null,
+        "external": [
+          "remark-lint-alphabetize-lists",
+          "remark-validate-links"
+        ]
+      }
+    },
+    "settings": {
+      "commonmark": true
+    }
+  }
+}
