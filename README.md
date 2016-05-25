@@ -9,7 +9,7 @@ A curated list of cryptography resources and links
 - [Frameworks and Libs](#frameworks-and-libs)
     - [C](#c)
     - [C++](#cpp)
-    - [C#](#csharp)
+    - [C#](#c-sharp)
     - [Clojure](#clojure)
     - [Common Lisp](#common-lisp)
     - [Delphi](#delphi)
@@ -74,7 +74,7 @@ A curated list of cryptography resources and links
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - a low-level cryptographic library.
 * [s2n](https://github.com/awslabs/s2n) - an implementation of the TLS/SSL protocols
 
-#### C#
+#### C-sharp
 * [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
 * [libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library.
 * [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
