@@ -184,6 +184,22 @@ A curated list of cryptography resources and links
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - an Elegant crypto toolkit in Swift.
 
 
+# Resources
+#### Twittter
+* [Bristol Crypto Group](https://twitter.com/bristolcrypto) - Twitter feed for the Crytography Research group at Bristol University.
+* [Paulo Barreto](https://twitter.com/pbarreto) - Cryptographer. University of São Paulo. University of Washington Tacoma.
+* [kennyog](https://twitter.com/kennyog) - Professor of Information Security and (e^x)-mathematician, specializing in cryptography, protocol analysis, and security consulting.
+* [Matthew Green](https://twitter.com/matthew_d_green) - He teach cryptography at Johns Hopkins.
+* [Pascal Junod](https://twitter.com/cryptopathe) - certified nerd god - cryptographer - hacker - co-founder of http://strong.codes  - kayaker - aidjolat
+
+#### Web-sites
+* [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
+* [Cryptography Stackoverflow](http://stackoverflow.com/questions/tagged/cryptography) - Cryptography covers, among other things, encryption, hashing and digital signatures.
+* [Learn Cryptography](https://learncryptography.com/) - is dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
+* [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - An Overview of Cryptography
+* [Crypo](http://crypo.bz.ms/encryptors) - Best encryption for network security.Encrypt or Decrypt sensitive data using AES/DES/RCA encryptors (security tools).
+
+
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/lk-geimfari/awesome-cryptography/blob/master/CONTRIBUTING.md) first.
