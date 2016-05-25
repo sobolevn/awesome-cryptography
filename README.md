@@ -29,7 +29,7 @@ A curated list of cryptography resources and links
     - [Scala](#scala)
     - [Swift](#swift)
 - [Resources](#resources)
-    - [Websites](#websites)
+    - [Websites](#web-sites)
     - [Twitter](#twitter)
 - [Web Apps](#web-apps)
 - [Contributing](#contributing)
@@ -185,13 +185,6 @@ A curated list of cryptography resources and links
 
 
 # Resources
-#### Twittter
-* [Bristol Crypto Group](https://twitter.com/bristolcrypto) - Twitter feed for the Crytography Research group at Bristol University.
-* [Paulo Barreto](https://twitter.com/pbarreto) - Cryptographer. University of São Paulo. University of Washington Tacoma.
-* [kennyog](https://twitter.com/kennyog) - Professor of Information Security and (e^x)-mathematician, specializing in cryptography, protocol analysis, and security consulting.
-* [Matthew Green](https://twitter.com/matthew_d_green) - He teach cryptography at Johns Hopkins.
-* [Pascal Junod](https://twitter.com/cryptopathe) - certified nerd god - cryptographer - hacker - co-founder of http://strong.codes  - kayaker - aidjolat
-
 #### Web-sites
 * [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
 * [Cryptography Stackoverflow](http://stackoverflow.com/questions/tagged/cryptography) - Cryptography covers, among other things, encryption, hashing and digital signatures.
