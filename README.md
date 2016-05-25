@@ -17,6 +17,7 @@ A curated list of cryptography resources and links
     - [Golang](#go)
     - [Haskell](#haskell)  
     - [Haxe](#hexe)
+    - [JavaScript](#javascript)
     - [Java](#java)
     - [Julia](#julia)
     - [Lua](#lua)
@@ -63,6 +64,7 @@ A curated list of cryptography resources and links
 * [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - is a cryptographic library developed as a separated module of GnuPG.
 * [NaCl](https://nacl.cr.yp.to/) - high-speed library for network communication, encryption, decryption, signatures, etc.
 * [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+* [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 
 #### C++
 * [Crypto++](https://www.cryptopp.com/) - Crypto++ Library is a free C++ class library of cryptographic schemes.
@@ -72,8 +74,14 @@ A curated list of cryptography resources and links
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - a low-level cryptographic library.
 * [s2n](https://github.com/awslabs/s2n) - an implementation of the TLS/SSL protocols
 
+#### C#
+* [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
+* [libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library.
+* [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+
 #### Clojure
 * [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
+* [pandect](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 #### Common Lisp
 * [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - Collection of common cryptography functions.
@@ -105,11 +113,18 @@ A curated list of cryptography resources and links
 
 #### Haskell
 * [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Official Website of Haskell
+* [Cryptonite](https://hackage.haskell.org/package/cryptonite) - Cryptonite is a haskell repository of cryptographic primitives.
 * [Crypto](http://hackage.haskell.org/packages/#cat:Crypto) - a collaborative Hackage list.
 * [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - a collaborative Hackage list.
 
 #### Hexe
 * [haxe-crypto](http://lib.haxe.org/p/haxe-crypto/) - Haxe Cryptography Library.
+
+#### JavaScript
+* [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
+* [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - The JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
+* [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC)
+* [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
 
 #### Java
 * [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
@@ -126,6 +141,8 @@ A curated list of cryptography resources and links
 
 #### Objective-C
 * [Themis](https://github.com/cossacklabs/themis) - High-level crypto library, providing basic asymmetric encryption.
+* [CocoaSecurity](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
+* [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
 
 #### PHP
 * [halite](https://paragonie.com/project/halite) - a simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
@@ -152,7 +169,6 @@ A curated list of cryptography resources and links
 * [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 * [suruga](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
 * [octavo](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-* [common.rs](https://github.com/seb-m/common.rs) - Common Rust crypto utilities.
 * [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
 
 #### Scala
