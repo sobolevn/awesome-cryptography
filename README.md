@@ -37,25 +37,25 @@ A curated list of cryptography resources and links
 
 - - -
 
-## Theory
-* Books
-    * [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) -  is an introduction to modern cryptography.
-    * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - There is an extraordinary textbook written by Ross Anderson, professor of computer security at University of Cambridge.
-    * [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - The book about OpenSSL.
-    * [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography.
-    * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) - This book is intended as a reference for professional cryptographers
-    * [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) -  is an introductory-level treatment of cryptography written from a modern, computer science perspective.
-    * [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security
-    * [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world    
+# Theory
+#### Books
+* [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) -  is an introduction to modern cryptography.
+* [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - There is an extraordinary textbook written by Ross Anderson, professor of computer security at University of Cambridge.
+* [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - The book about OpenSSL.
+* [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography.
+* [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) - This book is intended as a reference for professional cryptographers
+* [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) -  is an introductory-level treatment of cryptography written from a modern, computer science perspective.
+* [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security
+* [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world    
 
-* Courses
-    * [Cryptography I](https://www.coursera.org/learn/crypto)
-    * [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)
-    * [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/)
-    * [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
+#### Courses
+* [Cryptography I](https://www.coursera.org/learn/crypto)
+* [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)
+* [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/)
+* [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
 
 
-## Frameworks and Libs
+# Frameworks and Libs
 #### C
 * [cryptlib](http://www.cryptlib.com/) -  is an open source cross-platform software security toolkit library
 * [retter](https://github.com/maciejczyzewski/retter) - a collection of hash functions, ciphers, tools and libraries.
@@ -78,6 +78,7 @@ A curated list of cryptography resources and links
 * [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
 * [libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library.
 * [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+
 
 #### Clojure
 * [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
@@ -184,3 +185,6 @@ A curated list of cryptography resources and links
 
 
 # Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/lk-geimfari/awesome-cryptography/blob/master/CONTRIBUTING.md) first.
+
