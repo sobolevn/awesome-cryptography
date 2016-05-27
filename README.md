@@ -8,8 +8,15 @@ A curated list of cryptography resources and links.
 
 - [Theory](#theory)
 
+  - [Algorithms](#algorithms)
+
+    - [Symmetric encryption](symmetric-encryption)
+    - [Hash functions](#hash-functions)
+
   - [Articles](#articles)
+
   - [Books](#books)
+
   - [Courses](#courses)
 
 - [Frameworks and Libs](#frameworks-and-libs)
@@ -45,6 +52,20 @@ A curated list of cryptography resources and links.
 - - -
 
 ## Theory
+
+### Algorithms
+
+#### Symmetric encryption
+
+- [3DES](https://en.wikipedia.org/wiki/Triple_DES) - or Triple Data Encryption Algorithm (TDEA or Triple DEA) symmetric-key block cipher, which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.
+- [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - is a symmetric-key block cipher algorithm and U.S. government standard for secure and classified data encryption and decryption (also known as Rijndael).
+- [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - is a symmetric-key block cipher, designed in 1993 by Bruce Schneier. Notable features of the design include key-dependent S-boxes and a highly complex key schedule.
+
+#### Hash functions
+
+- [MD5](https://en.wikipedia.org/wiki/MD5) - is a widely used hash function producing a 128-bit hash value. MD5 was initially designed to be used as a cryptographic hash function, but it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
+- [SHA1](https://en.wikipedia.org/wiki/SHA-1) -  is a cryptographic hash function designed by the NSA. SHA-1 produces a 160-bit hash value known as a message digest. SHA-1 is no longer considered secure against well-funded opponents.
+- [SHA2](https://en.wikipedia.org/wiki/SHA-2) - is a set of hash functions designed by the NSA. SHA-256 and SHA-512 are novel hash functions computed with 32-bit and 64-bit words, respectively. They use different shift amounts and additive constants, but their structures are otherwise virtually identical, differing only in the number of rounds.
 
 ### Books
 
@@ -101,7 +122,7 @@ A curated list of cryptography resources and links.
 
 - [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - Collection of common cryptography functions.
 - [ironclad](http://method-combination.net/lisp/ironclad/) - Collection of common crypto shortcuts.
-- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - an SSH client library for Common Lisp (Built on libssh2)
+- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - an SSH client library for Common Lisp (Built on libssh2).
 
 ### Delphi
 
@@ -144,7 +165,7 @@ A curated list of cryptography resources and links.
 
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - The JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
-- [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC)
+- [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
 
 ### Java
