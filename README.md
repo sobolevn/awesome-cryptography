@@ -19,6 +19,8 @@ A curated list of cryptography resources and links.
 
   - [Courses](#courses)
 
+- [Standalone tools](#standalone-tools)
+
 - [Frameworks and Libs](#frameworks-and-libs)
 
   - [C](#c)
@@ -84,6 +86,10 @@ A curated list of cryptography resources and links.
 - [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)
 - [Cryptography I](https://www.coursera.org/learn/crypto)
 - [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/)
+
+## Standalone tools
+
+- [gpg](https://www.gnupg.org/) - is a complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 
 ## Frameworks and Libs
 
