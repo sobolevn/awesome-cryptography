@@ -1,9 +1,10 @@
 # Contributing
 
+<!--lint disable alphabetize-lists-->
+
 Your contributions are always welcome!
 
 ## Guidelines
-
 
 - Add one link per commit.
 
