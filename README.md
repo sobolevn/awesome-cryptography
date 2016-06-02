@@ -10,7 +10,8 @@ A curated list of cryptography resources and links.
 
   - [Algorithms](#algorithms)
 
-    - [Symmetric encryption](symmetric-encryption)
+    - [Symmetric encryption](#symmetric-encryption)
+    - [Asymmetric encryption](#asymmetric-encryption)
     - [Hash functions](#hash-functions)
 
   - [Articles](#articles)
@@ -63,6 +64,10 @@ A curated list of cryptography resources and links.
 - [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - is a symmetric-key block cipher algorithm and U.S. government standard for secure and classified data encryption and decryption (also known as Rijndael).
 - [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - is a symmetric-key block cipher, designed in 1993 by Bruce Schneier. Notable features of the design include key-dependent S-boxes and a highly complex key schedule.
 
+#### Asymmetric encryption
+
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) is one of the first practical public-key cryptosystems and is widely used for secure data transmission. In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem.
+
 #### Hash functions
 
 - [MD5](https://en.wikipedia.org/wiki/MD5) - is a widely used hash function producing a 128-bit hash value. MD5 was initially designed to be used as a cryptographic hash function, but it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
@@ -82,10 +87,10 @@ A curated list of cryptography resources and links.
 
 ### Courses
 
-- [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
-- [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)
-- [Cryptography I](https://www.coursera.org/learn/crypto)
-- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/)
+- [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387) - Cryptography is present in everyday life, from paying with a credit card to using the telephone. Learn all about making and breaking puzzles in computing.
+- [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography) - This course explains the inner workings of cryptographic primitives and how to correctly use them. Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications.
+- [Cryptography I](https://www.coursera.org/learn/crypto) - The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems.
+- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - This online course we will cover how cryptography is the cornerstone of security, and how through its use of different encryption methods, such as ciphers, and public or private keys, you can protect private or sensitive information from unauthorized access.
 
 ## Standalone tools
 

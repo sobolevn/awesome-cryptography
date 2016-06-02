@@ -38,15 +38,9 @@ Please, refer to [`Rules`](https://github.com/wooorm/remark-lint/blob/master/doc
 
 ## Testing
 
-To run tests locally you will need:
-
-- Ruby
-- Node.js
-
-To execute them:
+To run tests locally you will need to:
 
 ```shell
-$ gem install awesome_bot
 $ npm install
-$ npm test && awesome_bot -f README.md -t 10 --allow-redirect
+$ npm test
 ```

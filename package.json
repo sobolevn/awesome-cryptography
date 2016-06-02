@@ -24,7 +24,8 @@
   "dependencies": {
     "remark": "^4.2.2",
     "remark-lint": "^3.2.1",
-    "remark-lint-alphabetize-lists": "^1.0.4"
+    "remark-lint-alphabetize-lists": "^1.0.4",
+    "remark-lint-no-url-trailing-slash": "^1.0.0"
   },
   "remarkConfig": {
     "plugins": {
