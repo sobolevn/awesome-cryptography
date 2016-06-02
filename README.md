@@ -1,5 +1,6 @@
 # Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
 [![Build Status](https://travis-ci.org/sobolevn/awesome-cryptography.svg)](https://travis-ci.org/sobolevn/awesome-cryptography)
 
 A curated list of cryptography resources and links.
@@ -8,43 +9,48 @@ A curated list of cryptography resources and links.
 
 - [Theory](#theory)
 
-  - [Algorithms](#algorithms)
+    - [Algorithms](#algorithms)
 
-    - [Symmetric encryption](#symmetric-encryption)
-    - [Asymmetric encryption](#asymmetric-encryption)
-    - [Hash functions](#hash-functions)
+        - [Symmetric encryption](#symmetric-encryption)
+        - [Asymmetric encryption](#asymmetric-encryption)
+        - [Hash functions](#hash-functions)
 
-  - [Articles](#articles)
-
-  - [Books](#books)
-
-  - [Courses](#courses)
+    - [Articles](#articles)
+     
+    - [Books](#books)
+     
+    - [Courses](#courses)
 
 - [Standalone tools](#standalone-tools)
 
 - [Frameworks and Libs](#frameworks-and-libs)
+    - [C](#c)
+    - [C#](#c-sharp)
+    - [C++](#cpp)
+    - [Clojure](#clojure)
+    - [Common Lisp](#common-lisp)
+    - [Delphi](#delphi)
+    - [Elixir](#elixir)
+    - [Erlang](#erlang)
+    - [Golang](#go)
+    - [Haskell](#haskell)
+    - [Haxe](#haxe)
+    - [Java](#java)
+    - [JavaScript](#javascript)
+    - [Julia](#julia)
+    - [Lua](#lua)
+    - [Objective-C](#objective-c)
+    - [PHP](#php)
+    - [Python](#python)
+    - [Ruby](#ruby)
+    - [Rust](#rust)
+    - [Scala](#scala)
+    - [Swift](#swift)
 
-  - [C](#c)
-  - [C#](#c-sharp)
-  - [C++](#cpp)
-  - [Clojure](#clojure)
-  - [Common Lisp](#common-lisp)
-  - [Delphi](#delphi)
-  - [Elixir](#elixir)
-  - [Golang](#go)
-  - [Haskell](#haskell)
-  - [Haxe](#haxe)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Julia](#julia)
-  - [Lua](#lua)
-  - [Objective-C](#objective-c)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
-  - [Swift](#swift)
+- [Resources](#resources)
+    - [Web-tools](#web-tools)
+    - [Web-sites](#web-sites)
+    - [Blogs](#blogs)
 
 - [Contributing](#contributing)
 
@@ -66,7 +72,7 @@ A curated list of cryptography resources and links.
 
 #### Asymmetric encryption
 
-- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) is one of the first practical public-key cryptosystems and is widely used for secure data transmission. In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem.
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) - is one of the first practical public-key cryptosystems and is widely used for secure data transmission. In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem.
 
 #### Hash functions
 
@@ -90,7 +96,10 @@ A curated list of cryptography resources and links.
 - [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387) - Cryptography is present in everyday life, from paying with a credit card to using the telephone. Learn all about making and breaking puzzles in computing.
 - [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography) - This course explains the inner workings of cryptographic primitives and how to correctly use them. Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications.
 - [Cryptography I](https://www.coursera.org/learn/crypto) - The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems.
+- [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) - This talk will cover crypto vulnerabilities in widely-deployed systems and how the smallest oversight resulted in catastrophe.
 - [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - This online course we will cover how cryptography is the cornerstone of security, and how through its use of different encryption methods, such as ciphers, and public or private keys, you can protect private or sensitive information from unauthorized access.
+- [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - Practical Aspects of Modern Cryptography, Winter 2006 University of Washington CSE.
+- [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) - Introduction to Modern Cryptography, Using Cryptography in Practice and at Google, Proofs of Security and Security Definitions and A Special Topic in Cryptography.
 
 ## Standalone tools
 
@@ -153,6 +162,10 @@ A curated list of cryptography resources and links.
 - [exgpg](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 - [pot](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 - [siphash-elixir](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
+
+
+### Erlang
+- [crypto](http://erlang.org/doc/apps/crypto/) - The functions for computation of message digests, and functions for encryption and decryption.
 
 ### Go
 
@@ -245,6 +258,30 @@ A curated list of cryptography resources and links.
 - [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X.
 - [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - an Elegant crypto toolkit in Swift.
 
+
+## Resources
+
+### Web-tools
+
+- [Crypo](http://crypo.bz.ms/encryptors) - Best encryption for network security.Encrypt or Decrypt sensitive data using AES/DES/RCA encryptors (security tools).
+- [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) - is a set of cryptography related tools.
+
+### Web-sites
+
+- [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
+- [Cryptography Stackoverflow](http://stackoverflow.com/questions/tagged/cryptography) - Cryptography covers, among other things, encryption, hashing and digital signatures.
+- [Learn Cryptography](https://learncryptography.com/) - is dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
+- [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - An Overview of Cryptography
+- [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption. 
+
+
+### Blogs
+
+- [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/) - The official blog for the University of Bristol cryptography research group. It's a group blog, primarily targeted towards cryptographers and crypto students.
+- [Schneier on security](https://www.schneier.com/) - One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.
+- [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto Blog Posts.
+- [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
+
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) first.
@@ -259,4 +296,3 @@ rights to `awesome-cryptography`.
 
 You should have received a copy of the CC0 legalcode along with this
 work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
-
