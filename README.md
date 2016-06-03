@@ -4,32 +4,23 @@
 
 A curated list of cryptography resources and links.
 
-<!--lint disable alphabetize-lists ending-period-->
+<!--lint disable no-missing-blank-lines alphabetize-lists ending-period-->
 
 - [Theory](#theory)
-
   - [Algorithms](#algorithms)
-
     - [Symmetric encryption](#symmetric-encryption)
     - [Asymmetric encryption](#asymmetric-encryption)
     - [Hash functions](#hash-functions)
-
   - [Articles](#articles)
-
   - [Books](#books)
-
   - [Courses](#courses)
 
 - [Tools](#tools)
-
   - [Standalone](#standalone)
-
   - [Plugins](#plugins)
-
     - [Git](#git)
 
 - [Frameworks and Libs](#frameworks-and-libs)
-
   - [C](#c)
   - [C#](#c-sharp)
   - [C++](#cpp)
@@ -54,16 +45,14 @@ A curated list of cryptography resources and links.
   - [Swift](#swift)
 
 - [Resources](#resources)
-
   - [Web-tools](#web-tools)
   - [Web-sites](#web-sites)
   - [Blogs](#blogs)
 
 - [Contributing](#contributing)
-
 - [License](#license)
 
-<!--lint enable alphabetize-lists ending-period-->
+<!--lint enable no-missing-blank-lines alphabetize-lists ending-period-->
 
 - - -
 

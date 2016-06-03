@@ -33,6 +33,7 @@
         "maximum-line-length": 350,
         "list-item-indent": "space",
         "no-tabs": null,
+        "list-item-spacing": false,
         "external": [
           "remark-lint-alphabetize-lists",
           "remark-lint-ending-period"
