@@ -270,6 +270,7 @@ A curated list of cryptography resources and links.
 
 - [Crypo](http://crypo.bz.ms/encryptors) - Best encryption for network security.Encrypt or Decrypt sensitive data using AES/DES/RCA encryptors (security tools).
 - [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) - is a set of cryptography related tools.
+- [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
 
 ### Web-sites
 
