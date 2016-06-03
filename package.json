@@ -25,7 +25,7 @@
     "remark": "^4.2.2",
     "remark-lint": "^3.2.1",
     "remark-lint-alphabetize-lists": "^1.0.4",
-    "remark-lint-no-url-trailing-slash": "^1.0.0"
+    "remark-lint-ending-period": "^1.0.1"
   },
   "remarkConfig": {
     "plugins": {
@@ -34,7 +34,8 @@
         "list-item-indent": "space",
         "no-tabs": null,
         "external": [
-          "remark-lint-alphabetize-lists"
+          "remark-lint-alphabetize-lists",
+          "remark-lint-ending-period"
         ]
       }
     },

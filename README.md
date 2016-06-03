@@ -4,7 +4,7 @@
 
 A curated list of cryptography resources and links.
 
-<!--lint disable alphabetize-lists-->
+<!--lint disable alphabetize-lists ending-period-->
 
 - [Theory](#theory)
 
@@ -20,7 +20,13 @@ A curated list of cryptography resources and links.
 
   - [Courses](#courses)
 
-- [Standalone tools](#standalone-tools)
+- [Tools](#tools)
+
+  - [Standalone](#standalone)
+
+  - [Plugins](#plugins)
+
+    - [Git](#git)
 
 - [Frameworks and Libs](#frameworks-and-libs)
 
@@ -57,7 +63,7 @@ A curated list of cryptography resources and links.
 
 - [License](#license)
 
-<!--lint enable alphabetize-lists-->
+<!--lint enable alphabetize-lists ending-period-->
 
 - - -
 
@@ -102,9 +108,19 @@ A curated list of cryptography resources and links.
 - [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - Practical Aspects of Modern Cryptography, Winter 2006 University of Washington CSE.
 - [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) - Introduction to Modern Cryptography, Using Cryptography in Practice and at Google, Proofs of Security and Security Definitions and A Special Topic in Cryptography.
 
-## Standalone tools
+## Tools
 
+### Standalone
+
+- [blackbox](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
+- [certbot](https://github.com/certbot/certbot) - previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 - [gpg](https://www.gnupg.org/) - is a complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
+
+### Plugins
+
+#### Git
+
+- [git-secret](https://sobolevn.github.io/git-secret/) - A bash-tool to store your private data inside a git repository.
 
 ## Frameworks and Libs
 
