@@ -117,7 +117,6 @@ A curated list of cryptography resources and links.
 
 ### C
 
-- [cryptlib](http://www.cryptlib.com/) -  is an open source cross-platform software security toolkit library.
 - [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - is a cryptographic library developed as a separated module of GnuPG.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - is a fairly comprehensive, modular and portable cryptographic toolkit.
@@ -279,7 +278,6 @@ A curated list of cryptography resources and links.
 ### Web-sites
 
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
-- [Cryptography Stackoverflow](http://stackoverflow.com/questions/tagged/cryptography) - Cryptography covers, among other things, encryption, hashing and digital signatures.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - An Overview of Cryptography.
 - [Learn Cryptography](https://learncryptography.com/) - is dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
@@ -287,6 +285,7 @@ A curated list of cryptography resources and links.
 
 ### Blogs
 
+- [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - Some random thoughts about crypto.
 - [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/) - The official blog for the University of Bristol cryptography research group. It's a group blog, primarily targeted towards cryptographers and crypto students.
 - [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto Blog Posts.
 - [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
