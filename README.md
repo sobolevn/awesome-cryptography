@@ -117,6 +117,7 @@ A curated list of cryptography resources and links.
 
 ### C
 
+- [cryptlib](http://www.cryptlib.com/) -  is an open source cross-platform software security toolkit library.
 - [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - is a cryptographic library developed as a separated module of GnuPG.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - is a fairly comprehensive, modular and portable cryptographic toolkit.
