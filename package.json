@@ -25,7 +25,8 @@
     "remark": "^4.2.2",
     "remark-lint": "^3.2.1",
     "remark-lint-alphabetize-lists": "^1.0.4",
-    "remark-lint-ending-period": "^1.0.1"
+    "remark-lint-are-links-valid": "^1.0.1",
+    "remark-lint-list-item-punctuation": "^2.0.1"
   },
   "remarkConfig": {
     "plugins": {
@@ -36,8 +37,15 @@
         "list-item-spacing": false,
         "external": [
           "remark-lint-alphabetize-lists",
-          "remark-lint-ending-period"
-        ]
+          "remark-lint-are-links-valid",
+          "remark-lint-list-item-punctuation"
+        ],
+        "are-links-valid": {
+          "allowDuplicates": false,
+          "whiteListDomains": [
+            "hackage.haskell.org"
+          ]
+        }
       }
     },
     "settings": {

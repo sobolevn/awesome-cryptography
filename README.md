@@ -4,7 +4,7 @@
 
 A curated list of cryptography resources and links.
 
-<!--lint disable no-missing-blank-lines alphabetize-lists ending-period-->
+<!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
 - [Theory](#theory)
   - [Algorithms](#algorithms)
@@ -52,7 +52,7 @@ A curated list of cryptography resources and links.
 - [Contributing](#contributing)
 - [License](#license)
 
-<!--lint enable no-missing-blank-lines alphabetize-lists ending-period-->
+<!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
 - - -
 
@@ -115,7 +115,6 @@ A curated list of cryptography resources and links.
 
 ### C
 
-- [cryptlib](http://www.cryptlib.com/) -  is an open source cross-platform software security toolkit library.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - is a cryptographic library developed as a separated module of GnuPG.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - is a fairly comprehensive, modular and portable cryptographic toolkit.
 - [NaCl](https://nacl.cr.yp.to/) - high-speed library for network communication, encryption, decryption, signatures, etc.
@@ -222,7 +221,7 @@ A curated list of cryptography resources and links.
 
 ### PHP
 
-- [halite](https://paragonie.com/project/halite) - a simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
+- [halite](https://paragonie.com/project/halite) - a simple library for encryption using `libsodium`.
 - [PHP Encryption](https://github.com/defuse/php-encryption) - This is a library for encrypting data with a key or password in PHP.
 - [TCrypto](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
 
@@ -231,7 +230,6 @@ A curated list of cryptography resources and links.
 - [charm](https://github.com/JHUISI/charm) - a framework for rapidly prototyping cryptosystems.
 - [cryptography](https://cryptography.io/en/latest/) - is a Python library which exposes cryptographic recipes and primitives.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - is a pure python implmentation of cryptographic algorithms and applications.
-- [Google Keyczar](https://github.com/google/keyczar) - Easy-to-use crypto toolkit.
 - [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
 - [paramiko](http://www.paramiko.org/) - a Python implementation of the SSHv2 protocol, providing both client and server functionality.
 - [pycrypto](https://github.com/dlitz/pycrypto) - The Python Cryptography Toolkit.

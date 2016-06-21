@@ -4,9 +4,7 @@ node_js:
 sudo: false
 
 install:
-  # - gem install awesome_bot
   - npm install
 
 script:
-  # - awesome_bot -f README.md -t 10 --allow-redirect
   - npm test

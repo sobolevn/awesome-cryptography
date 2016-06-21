@@ -12,7 +12,7 @@ Your contributions are always welcome!
 
 - Add the link: `- [project-name](http://example.com/) - A short description ends with a period.`
 
-  - Keep descriptions concise.
+  - Keep descriptions concise, maximum number of characters is 350.
 
 - Add a section if needed.
 
