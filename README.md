@@ -256,7 +256,7 @@ A curated list of cryptography resources and links.
 
 ### Scala
 
-- [scrypto](https://github.com/ScorexProject/scrypto) - Cryptographic primitives for Scala.
+- [scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 
 ### Swift
 
