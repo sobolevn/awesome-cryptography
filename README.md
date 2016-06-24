@@ -106,12 +106,14 @@ A curated list of cryptography resources and links.
 
 - [blackbox](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
 - [certbot](https://github.com/certbot/certbot) - previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+- [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 - [gpg](https://www.gnupg.org/) - is a complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 
 ### Plugins
 
 #### Git
 
+- [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 - [git-secret](https://sobolevn.github.io/git-secret/) - A bash-tool to store your private data inside a git repository.
 
 ## Frameworks and Libs
@@ -122,7 +124,8 @@ A curated list of cryptography resources and links.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - is a cryptographic library developed as a separated module of GnuPG.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - is a fairly comprehensive, modular and portable cryptographic toolkit.
 - [NaCl](https://nacl.cr.yp.to/) - high-speed library for network communication, encryption, decryption, signatures, etc.
-- [retter](https://github.com/maciejczyzewski/retter) - a collection of hash functions, ciphers, tools and libraries.
+- [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+- [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 - [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
@@ -131,7 +134,7 @@ A curated list of cryptography resources and links.
 
 - [Bcrypt](http://bcrypt.sourceforge.net/) - a cross platform file encryption utility.
 - [Botan](https://botan.randombit.net/) - is a cryptography library written in `C++11`.
-- [Crypto++](https://www.cryptopp.com/) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+- [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib](https://github.com/shaih/HElib) - is a software library that implements homomorphic encryption (HE).
 - [libsodium](https://github.com/jedisct1/libsodium) - a modern and easy-to-use crypto library.
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - a low-level cryptographic library.
@@ -142,6 +145,7 @@ A curated list of cryptography resources and links.
 - [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
 - [libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library.
 - [PCLCrypto](https://github.com/AArnott/PCLCrypto) - provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
+- [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
 - [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
 
 ### Clojure
@@ -183,6 +187,7 @@ A curated list of cryptography resources and links.
 - [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
 - [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 - [dedis/crypto](https://github.com/dedis/crypto) - Advanced crypto library for the Go language.
+- [dkeyczar](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 - [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell
@@ -198,9 +203,12 @@ A curated list of cryptography resources and links.
 
 ### JavaScript
 
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
+- [forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - The JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
 - [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [rusha](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
 
 ### Java
@@ -213,6 +221,10 @@ A curated list of cryptography resources and links.
 ### Julia
 
 - [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - a library that wraps OpenSSL, but also has pure Julia implementations for reference.
+- [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) - A wrapper around the mbed TLS and cryptography C libary.
+- [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
+encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
+- [SHA.jl](https://github.com/staticfloat/SHA.jl) - A performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
 
 ### Lua
 
@@ -281,7 +293,7 @@ A curated list of cryptography resources and links.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - An Overview of Cryptography.
 - [Learn Cryptography](https://learncryptography.com/) - is dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
-- [Subreddit of Cryptography](https://www.reddit.com/r/cryptography) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
+- [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.
 
 ### Blogs
