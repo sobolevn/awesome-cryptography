@@ -196,6 +196,8 @@ A curated list of cryptography resources and links.
 - [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - a collaborative Hackage list.
 - [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Official Website of Haskell.
 - [Cryptonite](https://hackage.haskell.org/package/cryptonite) - Cryptonite is a haskell repository of cryptographic primitives.
+- [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
+
 
 ### Haxe
 
