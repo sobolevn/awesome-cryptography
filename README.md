@@ -215,6 +215,7 @@ A curated list of cryptography resources and links.
 
 - [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
+- [Flexiprovider](http://www.flexiprovider.de/) - The FlexiProvider is a powerful toolkit for the Java Cryptography Architecture (JCA/JCE). It provides cryptographic modules that can be plugged into every application that is built on top of the JCA. Includes RSA, Rijndael, hashes in the CoreProvider, also has a ECprovider, PKCS #11. LGPL and others.
 - [Google Keyczar](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine.
 
