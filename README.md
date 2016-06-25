@@ -128,6 +128,7 @@ A curated list of cryptography resources and links.
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 - [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+- [wolfSSL](https://github.com/wolfSSL/wolfssl) - wolfSSL is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C++
@@ -196,6 +197,7 @@ A curated list of cryptography resources and links.
 - [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - a collaborative Hackage list.
 - [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Official Website of Haskell.
 - [Cryptonite](https://hackage.haskell.org/package/cryptonite) - Cryptonite is a haskell repository of cryptographic primitives.
+- [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
 
 ### Haxe
 
@@ -203,18 +205,29 @@ A curated list of cryptography resources and links.
 
 ### JavaScript
 
+- [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
+- [cifre](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
+- [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
+- [cryptico](https://github.com/wwwtyro/cryptico) - An easy-to-use encryption system utilizing RSA and AES for javascript.
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
 - [forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - The JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
+- [js-nacl](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines.
+- [jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
+- [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
+- [PolyCrypt](https://github.com/polycrypt/polycrypt) - A pure JS implementation of the WebCrypto API.
 - [rusha](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
+- [URSA](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
 
 ### Java
 
 - [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
+- [Flexiprovider](http://www.flexiprovider.de/) - The FlexiProvider is a powerful toolkit for the Java Cryptography Architecture.
 - [Google Keyczar](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine.
 
@@ -286,6 +299,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 - [Crypo](http://crypo.bz.ms/encryptors) - Best encryption for network security.Encrypt or Decrypt sensitive data using AES/DES/RCA encryptors (security tools).
 - [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) - is a set of cryptography related tools.
+- [CrypTool](http://www.cryptool-online.org/) - A great variety of ciphers, encryption methods and analysis tools are introduced, often together with illustrated examples.
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
 
 ### Web-sites
