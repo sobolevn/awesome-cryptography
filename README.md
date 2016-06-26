@@ -122,6 +122,7 @@ A curated list of cryptography resources and links.
 
 - [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - is a cryptographic library developed as a separated module of GnuPG.
+- [libsodium](https://github.com/jedisct1/libsodium) - a modern and easy-to-use crypto library.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - is a fairly comprehensive, modular and portable cryptographic toolkit.
 - [NaCl](https://nacl.cr.yp.to/) - high-speed library for network communication, encryption, decryption, signatures, etc.
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
@@ -137,7 +138,6 @@ A curated list of cryptography resources and links.
 - [Botan](https://botan.randombit.net/) - is a cryptography library written in `C++11`.
 - [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib](https://github.com/shaih/HElib) - is a software library that implements homomorphic encryption (HE).
-- [libsodium](https://github.com/jedisct1/libsodium) - a modern and easy-to-use crypto library.
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - a low-level cryptographic library.
 - [s2n](https://github.com/awslabs/s2n) - an implementation of the TLS/SSL protocols.
 
