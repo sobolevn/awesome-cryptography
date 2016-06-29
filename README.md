@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/sobolevn/awesome-cryptography.svg)](https://travis-ci.org/sobolevn/awesome-cryptography) [![Join the chat at https://gitter.im/sobolevn/awesome-cryptography](https://badges.gitter.im/sobolevn/awesome-cryptography.svg)](https://gitter.im/sobolevn/awesome-cryptography?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Follow us on twitter](https://img.shields.io/twitter/follow/awe_crypto_bot.svg?style=social&maxAge=2592000)](https://twitter.com/awe_crypto_bot)
+
 A curated list of cryptography resources and links.
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
