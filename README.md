@@ -1,6 +1,8 @@
 # Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Build Status](https://travis-ci.org/sobolevn/awesome-cryptography.svg)](https://travis-ci.org/sobolevn/awesome-cryptography)
+[![Build Status](https://travis-ci.org/sobolevn/awesome-cryptography.svg)](https://travis-ci.org/sobolevn/awesome-cryptography) [![Join the chat at https://gitter.im/sobolevn/awesome-cryptography](https://badges.gitter.im/sobolevn/awesome-cryptography.svg)](https://gitter.im/sobolevn/awesome-cryptography?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Follow us on twitter](https://img.shields.io/twitter/follow/awe_crypto_bot.svg?style=social&maxAge=2592000)](https://twitter.com/awe_crypto_bot)
 
 A curated list of cryptography resources and links.
 
@@ -327,11 +329,11 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## License
 
-`awesome-cryptography` by sobolevn
+`awesome-cryptography` by [@sobolevn](https://github.com/sobolevn)
 
 To the extent possible under law, the person who associated CC0 with
 `awesome-cryptography` has waived all copyright and related or neighboring
 rights to `awesome-cryptography`.
 
 You should have received a copy of the CC0 legalcode along with this
-work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
+work.  If not, see [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/).
