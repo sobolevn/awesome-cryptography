@@ -106,6 +106,7 @@ A curated list of cryptography resources and links.
 
 ### Standalone
 
+- [Bcrypt](http://bcrypt.sourceforge.net/) - a cross platform file encryption utility.
 - [blackbox](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
 - [certbot](https://github.com/certbot/certbot) - previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
@@ -136,7 +137,6 @@ A curated list of cryptography resources and links.
 
 ### C++
 
-- [Bcrypt](http://bcrypt.sourceforge.net/) - a cross platform file encryption utility.
 - [Botan](https://botan.randombit.net/) - is a cryptography library written in `C++11`.
 - [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib](https://github.com/shaih/HElib) - is a software library that implements homomorphic encryption (HE).
