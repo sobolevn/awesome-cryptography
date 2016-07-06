@@ -41,6 +41,7 @@ A curated list of cryptography resources and links.
   - [Objective-C](#objective-c)
   - [PHP](#php)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -200,6 +201,7 @@ A curated list of cryptography resources and links.
 - [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Official Website of Haskell.
 - [Cryptonite](https://hackage.haskell.org/package/cryptonite) - Cryptonite is a haskell repository of cryptographic primitives.
 - [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
+- [scrypt](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
 
 ### Haxe
 
@@ -234,6 +236,7 @@ A curated list of cryptography resources and links.
 - [Flexiprovider](http://www.flexiprovider.de/) - The FlexiProvider is a powerful toolkit for the Java Cryptography Architecture.
 - [Google Keyczar](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine.
+- [scrypt](https://github.com/wg/scrypt) - A pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia
 
@@ -272,6 +275,10 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - is a self-contained Python package of low-level cryptographic primitives.
 - [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+
+### R
+
+- [rscrypt](https://github.com/rstudio/rscrypt) - is an R package for a collection of scrypt cryptographic functions.
 
 ### Ruby
 
