@@ -48,9 +48,10 @@ A curated list of cryptography resources and links.
   - [Swift](#swift)
 
 - [Resources](#resources)
+  - [Blogs](#blogs)
+  - [Mailing lists](#mailing-lists)
   - [Web-tools](#web-tools)
   - [Web-sites](#web-sites)
-  - [Blogs](#blogs)
 
 - [Contributing](#contributing)
 - [License](#license)
@@ -310,6 +311,20 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ## Resources
 
+### Blogs
+
+- [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - Some random thoughts about crypto.
+- [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/) - The official blog for the University of Bristol cryptography research group. It's a group blog, primarily targeted towards cryptographers and crypto students.
+- [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto Blog Posts.
+- [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
+- [Schneier on security](https://www.schneier.com/) - One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.
+
+### Mailing lists
+
+- [metzdowd.com](http://www.metzdowd.com/mailman/listinfo/cryptography) - "Cryptography" is a low-noise moderated mailing list devoted to cryptographic technology and its political impact.
+- [Modern Crypto](https://moderncrypto.org/) - Forums for discussing modern cryptographic practice.
+- [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) - List for general discussion of cryptography, particularly the technical aspects.
+
 ### Web-tools
 
 - [Crypo](http://crypo.bz.ms/encryptors) - Best encryption for network security.Encrypt or Decrypt sensitive data using AES/DES/RCA encryptors (security tools).
@@ -325,14 +340,6 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Learn Cryptography](https://learncryptography.com/) - is dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.
-
-### Blogs
-
-- [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - Some random thoughts about crypto.
-- [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/) - The official blog for the University of Bristol cryptography research group. It's a group blog, primarily targeted towards cryptographers and crypto students.
-- [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto Blog Posts.
-- [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
-- [Schneier on security](https://www.schneier.com/) - One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.
 
 ## Contributing
 
