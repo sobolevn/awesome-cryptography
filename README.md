@@ -6,6 +6,8 @@
 
 A curated list of cryptography resources and links.
 
+## Contents
+
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
 - [Theory](#theory)
