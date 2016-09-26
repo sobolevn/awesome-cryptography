@@ -40,6 +40,7 @@ A curated list of cryptography resources and links.
   - [Lua](#lua)
   - [Objective-C](#objective-c)
   - [PHP](#php)
+  - [PicoLisp](#picolisp)
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
@@ -267,6 +268,10 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [halite](https://paragonie.com/project/halite) - Simple library for encryption using `libsodium`.
 - [PHP Encryption](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
 - [TCrypto](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
+
+### PicoLisp
+
+- [tankfeeder](https://bitbucket.org/mihailp/tankfeeder/src/238e45dfd51848ca4dc947f90b4370fe5ccef85e/crypto/?at=default) - Collection of cryptography functions.
 
 ### Python
 
