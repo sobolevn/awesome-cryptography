@@ -244,6 +244,7 @@ A curated list of cryptography resources and links.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
 - [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
 - [Google Keyczar](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
+- [keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine.
 - [scrypt](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
