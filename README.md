@@ -246,6 +246,7 @@ A curated list of cryptography resources and links.
 - [Google Keyczar](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine.
 - [scrypt](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+- [keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
 
 ### Julia
 
