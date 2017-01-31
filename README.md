@@ -283,7 +283,6 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
 - [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
 - [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
-- [pycrypto](https://github.com/dlitz/pycrypto) - The Python Cryptography Toolkit.
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 - [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
