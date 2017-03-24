@@ -135,6 +135,7 @@ A curated list of cryptography resources and links.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
 - [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
+- [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
@@ -142,7 +143,6 @@ A curated list of cryptography resources and links.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
 - [wolfSSL](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
-- [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 
 ### C++
 
