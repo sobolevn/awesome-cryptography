@@ -142,6 +142,7 @@ A curated list of cryptography resources and links.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
 - [wolfSSL](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+- [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 
 ### C++
 
