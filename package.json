@@ -4,7 +4,7 @@
   "description": "A curated list of cryptography resources and links.",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/remark/bin/remark README.md CONTRIBUTING.md -f"
+    "test": "remark README.md CONTRIBUTING.md -f"
   },
   "repository": {
     "type": "git",
@@ -22,32 +22,23 @@
   },
   "homepage": "https://github.com/sobolevn/awesome-cryptography#readme",
   "dependencies": {
-    "remark": "^4.2.2",
-    "remark-lint": "^3.2.1",
-    "remark-lint-alphabetize-lists": "^1.0.4",
-    "remark-lint-are-links-valid": "^1.0.3",
-    "remark-lint-list-item-punctuation": "^2.0.1"
+    "remark": "^8.0.0",
+    "remark-cli": "^4.0.0",
+    "remark-lint": "^6.0.0",
+    "remark-lint-alphabetize-lists": "^2.0.0",
+    "remark-lint-are-links-valid-duplicate": "^0.1.1",
+    "remark-preset-lint-recommended": "^3.0.0"
   },
   "remarkConfig": {
-    "plugins": {
-      "lint": {
-        "maximum-line-length": 350,
-        "list-item-indent": "space",
-        "no-tabs": null,
-        "list-item-spacing": false,
-        "external": [
-          "remark-lint-alphabetize-lists",
-          "remark-lint-are-links-valid",
-          "remark-lint-list-item-punctuation"
-        ],
-        "are-links-valid": {
-          "allowDuplicates": false,
-          "whiteListDomains": [
-            "hackage.haskell.org"
-          ]
-        }
-      }
-    },
+    "plugins": [
+      "remark-preset-lint-recommended",
+      [
+        "remark-lint-list-item-indent",
+        "space"
+      ],
+      "remark-lint-alphabetize-lists",
+      "remark-lint-are-links-valid-duplicate"
+    ],
     "settings": {
       "commonmark": true
     }
