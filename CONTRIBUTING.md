@@ -41,6 +41,6 @@ Please, refer to [`Rules`](https://github.com/wooorm/remark-lint/blob/master/doc
 To run tests locally you will need to:
 
 ```shell
-$ npm install
-$ npm test
+$ yarn install
+$ yarn test
 ```
