@@ -147,6 +147,7 @@ A curated list of cryptography resources and links.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
 - [wolfSSL](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+- [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 
 ### C++
 
@@ -207,6 +208,8 @@ A curated list of cryptography resources and links.
 - [dedis/crypto](https://github.com/dedis/crypto) - Advanced crypto library for the Go language.
 - [dkeyczar](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 - [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+- [goThemis](https://github.com/cossacklabs/themis) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+
 
 ### Haskell
 
@@ -243,6 +246,7 @@ A curated list of cryptography resources and links.
 - [rusha](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
 - [URSA](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
+- [jsThemis](https://github.com/cossacklabs/themis) - Javascript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Java
 
@@ -254,6 +258,7 @@ A curated list of cryptography resources and links.
 - [keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine.
 - [scrypt](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+- [Java Themis](https://github.com/cossacklabs/themis) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Julia
 
@@ -272,7 +277,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 - [CocoaSecurity](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
 - [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
-- [Themis](https://github.com/cossacklabs/themis) - Crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms..
+- [ObjC Themis](https://github.com/cossacklabs/themis) - ObjC wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### PHP
 
@@ -280,6 +285,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 - [PHP Encryption](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
 - [TCrypto](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
+- [PHP Themis](https://github.com/cossacklabs/themis) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Python
 
@@ -293,6 +299,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 - [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+- [pythemis](https://github.com/cossacklabs/themis) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### R
 
@@ -302,6 +309,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 - [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) - Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
 - [RbNaCl](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+- [Ruby Themis](https://github.com/cossacklabs/themis) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Rust
 
@@ -326,6 +334,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [SweetHMAC](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 - [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X.
 - [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
+- [Swift Themis](https://github.com/cossacklabs/themis) - Swift wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## Resources
 
