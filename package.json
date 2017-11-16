@@ -4,7 +4,9 @@
   "description": "A curated list of cryptography resources and links.",
   "main": "index.js",
   "scripts": {
-    "test": "remark README.md CONTRIBUTING.md -f"
+    "test": "remark README.md CONTRIBUTING.md -f",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -28,7 +30,8 @@
     "remark-lint-alphabetize-lists": "^2.0.0",
     "remark-lint-are-links-valid-alive": "^0.2.1",
     "remark-lint-are-links-valid-duplicate": "^0.2.1",
-    "remark-preset-lint-recommended": "^3.0.0"
+    "remark-preset-lint-recommended": "^3.0.0",
+    "snyk": "^1.49.3"
   },
   "remarkConfig": {
     "plugins": [
@@ -44,5 +47,6 @@
     "settings": {
       "commonmark": true
     }
-  }
+  },
+  "snyk": true
 }
