@@ -328,6 +328,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Scala
 
 - [scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+- [tsec](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
 
 ### Swift
 
