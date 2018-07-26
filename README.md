@@ -320,6 +320,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Rust
 
 - [octavo](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+- [orion](https://github.com/brycx/orion) - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
 - [proteus](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 - [ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
 - [rust-crypto](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
