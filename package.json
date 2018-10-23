@@ -23,7 +23,7 @@
   "homepage": "https://github.com/sobolevn/awesome-cryptography#readme",
   "dependencies": {
     "remark": "^8.0.0",
-    "remark-cli": "^4.0.0",
+    "remark-cli": "^6.0.0",
     "remark-lint": "^6.0.0",
     "remark-lint-alphabetize-lists": "^2.0.0",
     "remark-lint-are-links-valid-alive": "^0.2.1",
