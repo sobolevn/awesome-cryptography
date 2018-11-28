@@ -249,6 +249,8 @@ A curated list of cryptography resources and links.
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
 - [forge](https://github.com/digitalbazaar/forge) - Native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps.
+- [ironNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - A NodeJS library that integrates privacy, security, and data control into a server side app.
+- [ironWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - Browser-based JavaScript library that integrates privacy, security, and data control into client side applications.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
 - [js-nacl](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines.
 - [jsencrypt](https://github.com/travist/jsencrypt) - Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
@@ -262,8 +264,6 @@ A curated list of cryptography resources and links.
 - [rusha](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
 - [URSA](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
-- [ironWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - Browser-based JavaScript library that integrates privacy, security, and data control into client side applications.
-- [ironNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - A NodeJS library that integrates privacy, security, and data control into a server side app.
 
 
 ### Java
@@ -348,9 +348,9 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Scala
 
+- [recrypt](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
 - [scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 - [tsec](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
-- [recrypt](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
 
 ### Swift
 
@@ -370,8 +370,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/) - Official blog for the University of Bristol cryptography research group. It's a group blog, primarily targeted towards cryptographers and crypto students.
 - [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto Blog Posts.
 - [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
+- [Salty Hash](https://blog.ironcorelabs.com/) - Covers topics on encryption, data control, privacy, and security.
 - [Schneier on security](https://www.schneier.com/) - One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.
-- [The Salty Hash](https://blog.ironcorelabs.com/) - Covers topics on encryption, data control, privacy, and security.
 
 ### Mailing lists
 
