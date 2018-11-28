@@ -77,6 +77,10 @@ A curated list of cryptography resources and links.
 
 - [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) - One of the first practical public-key cryptosystems and is widely used for secure data transmission. In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem.
 
+#### Transform Encryption
+
+- [Transform Encryption (aka Proxy Re-Encryption)](https://docs.ironcorelabs.com/concepts/transform-encryption) - Transform encryption uses three  mathematically related keys: one to encrypt plaintext to a recipient, a second to decrypt the ciphertext, and a third to transform ciphertext encrypted to one recipient so it can be decrypted by a different recipient.
+
 #### Hash functions
 
 - [MD5](https://en.wikipedia.org/wiki/MD5) - Widely used hash function producing a 128-bit hash value. MD5 was initially designed to be used as a cryptographic hash function, but it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
@@ -258,6 +262,9 @@ A curated list of cryptography resources and links.
 - [rusha](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
 - [URSA](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
+- [ironWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - Browser-based JavaScript library that integrates privacy, security, and data control into client side applications.
+- [ironNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - A NodeJS library that integrates privacy, security, and data control into a server side app.
+
 
 ### Java
 
@@ -337,11 +344,13 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 - [suruga](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
 - [webpki](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+- [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 
 ### Scala
 
 - [scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 - [tsec](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
+- [recrypt](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
 
 ### Swift
 
@@ -362,6 +371,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto Blog Posts.
 - [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
 - [Schneier on security](https://www.schneier.com/) - One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.
+- [The Salty Hash](https://blog.ironcorelabs.com/) - Covers topics on encryption, data control, privacy, and security.
 
 ### Mailing lists
 
