@@ -249,8 +249,8 @@ A curated list of cryptography resources and links.
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
 - [forge](https://github.com/digitalbazaar/forge) - Native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps.
-- [ironNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - A NodeJS library that integrates privacy, security, and data control into a server side app.
-- [ironWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - Browser-based JavaScript library that integrates privacy, security, and data control into client side applications.
+- [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for encrypting to users or groups, and easily adding strong data controls to NodeJS apps.
+- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for easily managing end-to-end encryption securely in the browser.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
 - [js-nacl](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines.
 - [jsencrypt](https://github.com/travist/jsencrypt) - Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
