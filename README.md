@@ -154,6 +154,7 @@ A curated list of cryptography resources and links.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
 - [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
+- [libVES.c](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 - [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
