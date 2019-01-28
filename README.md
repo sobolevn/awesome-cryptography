@@ -323,6 +323,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 - [bcrypt](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
 - [charm](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+- [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 - [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
 - [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
