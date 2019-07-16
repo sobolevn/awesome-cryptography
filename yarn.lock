@@ -1128,9 +1128,9 @@ remark-cli@^6.0.1:
     remark "^10.0.0"
     unified-args "^6.0.0"
 
-remark-lint-alphabetize-lists@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-alphabetize-lists/-/remark-lint-alphabetize-lists-2.0.0.tgz#77ffcff304bce5b34014981acd7d2f86042bb334"
+remark-lint-alphabetize-lists@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-alphabetize-lists/-/remark-lint-alphabetize-lists-2.0.1.tgz#ef1cce3546bac8731f12afcf97f1ed7c47d664d3"
   dependencies:
     mdast-util-to-string "^1.0.0"
     unified-lint-rule "^1.0.0"
