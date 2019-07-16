@@ -731,7 +731,7 @@ json-parse-better-errors@^1.0.1:
 
 json5@^1.0.0:
   version "1.0.1"
-  resolved "http://registry.npmjs.org/json5/-/json5-1.0.1.tgz#779fb0018604fa854eacbf6252180d83543e3dbe"
+  resolved "https://registry.npmjs.org/json5/-/json5-1.0.1.tgz#779fb0018604fa854eacbf6252180d83543e3dbe"
   dependencies:
     minimist "^1.2.0"
 
@@ -1128,9 +1128,9 @@ remark-cli@^6.0.1:
     remark "^10.0.0"
     unified-args "^6.0.0"
 
-remark-lint-alphabetize-lists@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-alphabetize-lists/-/remark-lint-alphabetize-lists-2.0.0.tgz#77ffcff304bce5b34014981acd7d2f86042bb334"
+remark-lint-alphabetize-lists@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-alphabetize-lists/-/remark-lint-alphabetize-lists-2.0.1.tgz#ef1cce3546bac8731f12afcf97f1ed7c47d664d3"
   dependencies:
     mdast-util-to-string "^1.0.0"
     unified-lint-rule "^1.0.0"
@@ -1412,7 +1412,7 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
 
 safe-regex@^1.1.0:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz#40a3669f3b077d1e943d44629e157dd48023bf2e"
+  resolved "https://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz#40a3669f3b077d1e943d44629e157dd48023bf2e"
   dependencies:
     ret "~0.1.10"
 
