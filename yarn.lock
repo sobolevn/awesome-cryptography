@@ -1419,9 +1419,9 @@ remark@^10.0.0:
     remark-stringify "^6.0.0"
     unified "^7.0.0"
 
-remark@^11.0.1:
-  version "11.0.1"
-  resolved "https://registry.yarnpkg.com/remark/-/remark-11.0.1.tgz#3c16e1ed84c78a661299991bb8d5fa7ee5d18e3c"
+remark@^11.0.2:
+  version "11.0.2"
+  resolved "https://registry.yarnpkg.com/remark/-/remark-11.0.2.tgz#12b90ea100ac3362b1976fa87a6e4e0ab5968202"
   dependencies:
     remark-parse "^7.0.0"
     remark-stringify "^7.0.0"
