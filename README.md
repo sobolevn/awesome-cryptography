@@ -266,6 +266,11 @@ A curated list of cryptography resources and links.
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
 - [libVES.js](https://github.com/vesvault/libVES) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 - - [milagro-crypto-js](https://github.com/apache/incubator-milagro-crypto-js) - MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for nodejs and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.
+- noble - high-security, easily auditable set of contained cryptographic libraries and tools. Zero dependencies each.
+  - [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) — BLS12-381 pairing-friendly curve (threshold sigs)
+  - [noble-ed25519](https://github.com/paulmillr/noble-ed25519) — ed25519 curve + ristretto255 (encryption, sigs)
+  - [noble-ripemd160](https://github.com/paulmillr/noble-ripemd160) — RIPEMD160 hash.
+  - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) — secp256k1 Koblitz curve (encryption, ECDH, sigs)
 - [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for NodeJS.
 - [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
 - [PolyCrypt](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
