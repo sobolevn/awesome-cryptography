@@ -1297,11 +1297,17 @@ remark-lint-ordered-list-marker-style@^1.0.0:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.1"
 
-remark-lint@^6.0.0, remark-lint@^6.0.6:
+remark-lint@^6.0.0:
   version "6.0.6"
   resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-6.0.6.tgz#5bf64efe5d88f3caf859ad541ab00656e3ca9c63"
   dependencies:
     remark-message-control "^4.0.0"
+
+remark-lint@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-7.0.0.tgz#76c054bbd32e8b7b01234f6a0c00e3d72ac9129a"
+  dependencies:
+    remark-message-control "^6.0.0"
 
 remark-message-control@^4.0.0:
   version "4.0.1"
@@ -1311,6 +1317,13 @@ remark-message-control@^4.0.0:
     trim "0.0.1"
     unist-util-visit "^1.0.0"
     vfile-location "^2.0.0"
+
+remark-message-control@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/remark-message-control/-/remark-message-control-6.0.0.tgz#955b054b38c197c9f2e35b1d88a4912949db7fc5"
+  dependencies:
+    mdast-comment-marker "^1.0.0"
+    unified-message-control "^3.0.0"
 
 remark-parse@^6.0.0:
   version "6.0.3"
@@ -1770,6 +1783,13 @@ unified-lint-rule@^1.0.0, unified-lint-rule@^1.0.1:
   dependencies:
     wrapped "^1.0.1"
 
+unified-message-control@^3.0.0:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/unified-message-control/-/unified-message-control-3.0.1.tgz#7018855daea9af96082cbea35970d48c9c4dbbf2"
+  dependencies:
+    unist-util-visit "^2.0.0"
+    vfile-location "^3.0.0"
+
 unified@^7.0.0:
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/unified/-/unified-7.0.2.tgz#16aa2748a7c936b80846cc69c580cd5ebd844532"
@@ -1810,6 +1830,10 @@ unist-util-inspect@^4.1.2:
   dependencies:
     is-empty "^1.0.0"
 
+unist-util-is@^4.0.0:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/unist-util-is/-/unist-util-is-4.0.2.tgz#c7d1341188aa9ce5b3cff538958de9895f14a5de"
+
 unist-util-modify-children@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/unist-util-modify-children/-/unist-util-modify-children-1.1.1.tgz#66d7e6a449e6f67220b976ab3cb8b5ebac39e51d"
@@ -1840,9 +1864,24 @@ unist-util-stringify-position@^2.0.0:
   dependencies:
     "@types/unist" "^2.0.2"
 
+unist-util-visit-parents@^3.0.0:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/unist-util-visit-parents/-/unist-util-visit-parents-3.0.2.tgz#d4076af3011739c71d2ce99d05de37d545f4351d"
+  dependencies:
+    "@types/unist" "^2.0.0"
+    unist-util-is "^4.0.0"
+
 unist-util-visit@^1.0.0, unist-util-visit@^1.1.0, unist-util-visit@^1.1.1, unist-util-visit@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-1.1.3.tgz#ec268e731b9d277a79a5b5aa0643990e405d600b"
+
+unist-util-visit@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-2.0.2.tgz#3843782a517de3d2357b4c193b24af2d9366afb7"
+  dependencies:
+    "@types/unist" "^2.0.0"
+    unist-util-is "^4.0.0"
+    unist-util-visit-parents "^3.0.0"
 
 unset-value@^1.0.0:
   version "1.0.0"
@@ -1876,6 +1915,10 @@ util-deprecate@~1.0.1:
 vfile-location@^2.0.0, vfile-location@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-2.0.2.tgz#d3675c59c877498e492b4756ff65e4af1a752255"
+
+vfile-location@^3.0.0:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-3.0.1.tgz#d78677c3546de0f7cd977544c367266764d31bb3"
 
 vfile-message@^1.0.0:
   version "1.0.2"
