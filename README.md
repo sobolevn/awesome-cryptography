@@ -412,6 +412,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Web-sites
 
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
+- [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
 - [Cryptopals Crypto Challenges](http://cryptopals.com/) - A series of applied cryptography challenges, starting from very basic challenges, such as hex to base 64 challanges, and gradually increasing the difficulty up to abstract algebra.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - An Overview of Cryptography.
 - [IACR](https://www.iacr.org/) - The International Association for Cryptologic Research is a non-profit scientific organization whose purpose is to further research in cryptology and related fields.
