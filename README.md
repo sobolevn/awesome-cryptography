@@ -174,6 +174,7 @@ A curated list of cryptography resources and links.
 - [Botan](https://botan.randombit.net/) - Cryptography library written in `C++11`.
 - [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+- [mcl](https://github.com/herumi/mcl) - a portable and fast pairing-based cryptography library.
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
 - [s2n](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
