@@ -108,6 +108,7 @@ A curated list of cryptography resources and links.
 - [The Code Book](https://simonsingh.net/books/the-code-book/) - This book is a digest of the history of cryptography, covering both ancient times, and newer cryptography methods. There are exercises at the end and the solution of those was rewarded with $10.000.
 - [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security.
 - [Understanding Cryptography](http://www.crypto-textbook.com/) - Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.
+- [Permissioned Blockchains in Action](https://www.manning.com/books/permissioned-blockchains-in-action) - A tool-agnostic guide to creating innovative applications using blockchain technology through advanced cryptography.
 
 ### Courses
 
