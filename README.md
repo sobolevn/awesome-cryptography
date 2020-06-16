@@ -30,7 +30,7 @@ A curated list of cryptography resources and links.
 - [Frameworks and Libs](#frameworks-and-libs)
   - [C](#c)
   - [C#](#c-sharp)
-  - [C++](#cpp)
+  - [C++](#c-1)
   - [Clojure](#clojure)
   - [Common Lisp](#common-lisp)
   - [Delphi](#delphi)
