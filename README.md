@@ -412,7 +412,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
 
 ### Web-sites
-
+- [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
 - [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
 - [Cryptopals Crypto Challenges](http://cryptopals.com/) - A series of applied cryptography challenges, starting from very basic challenges, such as hex to base 64 challanges, and gradually increasing the difficulty up to abstract algebra.
