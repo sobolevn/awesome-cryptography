@@ -27,6 +27,7 @@ A curated list of cryptography resources and links.
   - [Standalone](#standalone)
   - [Plugins](#plugins)
     - [Git](#git)
+  - [Playgrounds](#playgrounds)
 - [Frameworks and Libs](#frameworks-and-libs)
   - [C](#c)
   - [C#](#c-sharp)
@@ -149,6 +150,10 @@ A curated list of cryptography resources and links.
 
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 - [git-secret](https://sobolevn.github.io/git-secret/) - Bash-tool to store your private data inside a git repository.
+
+### Playgrounds
+
+- [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
 
 ## Frameworks and Libs
 
