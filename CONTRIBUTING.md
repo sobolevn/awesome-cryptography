@@ -1,5 +1,7 @@
 <!--lint disable alphabetize-lists-->
 
+[![test](https://github.com/sobolevn/awesome-cryptography/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/sobolevn/awesome-cryptography/actions/workflows/test.yml)
+
 # Contributing
 
 Your contributions are always welcome!
