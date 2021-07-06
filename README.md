@@ -168,6 +168,7 @@ A curated list of cryptography resources and links.
 - [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
 - [monocypher](https://monocypher.org) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
+- [Nettle](http://www.lysator.liu.se/~nisse/nettle/) is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, etc.), in applications like LSH or GNUPG, or even in kernel space.
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 - [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
