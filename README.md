@@ -100,6 +100,7 @@ A curated list of cryptography resources and links.
 - [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - Introduction to modern cryptography.
 - [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography.
 - [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world.
+- [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - Cryptography, TLS, and attack resistance
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) - This book is intended as a reference for professional cryptographers.
 - [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - Introductory-level treatment of cryptography written from a modern, computer science perspective.
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - The book about OpenSSL.
@@ -110,7 +111,6 @@ A curated list of cryptography resources and links.
 - [The Code Book](https://simonsingh.net/books/the-code-book/) - This book is a digest of the history of cryptography, covering both ancient times, and newer cryptography methods. There are exercises at the end and the solution of those was rewarded with $10.000.
 - [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security.
 - [Understanding Cryptography](http://www.crypto-textbook.com/) - Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.
-- [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - Cryptography, TLS, and attack resistance
 
 ### Courses
 
