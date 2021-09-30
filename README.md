@@ -166,7 +166,6 @@ A curated list of cryptography resources and links.
 - [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
 - [libVES.c](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
-- [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
 - [monocypher](https://monocypher.org) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
