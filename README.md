@@ -42,6 +42,7 @@ A curated list of cryptography resources and links.
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Lua](#lua)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [PHP](#php)
   - [Python](#python)
@@ -325,6 +326,11 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 - [lua-lockbox](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
 - [LuaCrypto](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
+
+### OCaml
+
+- [Digestif](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
+- [ocaml-tls](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
 
 ### Objective-C
 
