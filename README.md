@@ -188,6 +188,7 @@ A curated list of cryptography resources and links.
 - [HElib](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
 - [s2n](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
+- [=nil; Crypto3](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (threshold cryptography, zk proof systems, etc).
 
 ### C-sharp
 
