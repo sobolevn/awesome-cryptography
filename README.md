@@ -183,6 +183,7 @@ A curated list of cryptography resources and links.
 
 ### C++
 
+- [=nil; Crypto3](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 - [Botan](https://botan.randombit.net/) - Cryptography library written in `C++11`.
 - [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
