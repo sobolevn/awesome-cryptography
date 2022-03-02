@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: sobolevn/misspell-fixer-action@0.1.0
     - uses: peter-evans/create-pull-request@v3
       with:
