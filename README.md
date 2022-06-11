@@ -384,6 +384,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [mundane](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
 - [ockam](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 - [octavo](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+- [orion](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
 - [proteus](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 - [rage](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format. 
 - [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
