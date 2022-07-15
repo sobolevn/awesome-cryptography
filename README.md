@@ -241,10 +241,10 @@ A curated list of cryptography resources and links.
 
 - [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
 - [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
-- [dedis/crypto](https://github.com/dedis/crypto) - Advanced crypto library for the Go language.
 - [dkeyczar](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 - [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 - [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [kyber](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
 
 
 ### Haskell
