@@ -112,6 +112,7 @@ A curated list of cryptography resources and links.
 - [Understanding Cryptography](http://www.crypto-textbook.com/) - Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.
 - [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity) - In Self-Sovereign Identity: Decentralized digital identity and verifiable credentials, you’ll learn how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities.
 - [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods.
+- [Making Sense of Cyebersecurity](https://www.manning.com/books/making-sense-of-cybersecurity) - A jargon-busting guide to the key concepts, terminology, and technologies of cybersecurity.
 
 ### Courses
 
