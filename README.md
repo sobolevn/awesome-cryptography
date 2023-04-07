@@ -113,6 +113,7 @@ A curated list of cryptography resources and links.
 - [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity) - In Self-Sovereign Identity: Decentralized digital identity and verifiable credentials, you’ll learn how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities.
 - [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods.
 - [Making Sense of Cyebersecurity](https://www.manning.com/books/making-sense-of-cybersecurity) - A jargon-busting guide to the key concepts, terminology, and technologies of cybersecurity.
+- [Implementing and Exploiting Cryptography](https://www.manning.com/books/implementing-and-exploiting-cryptography) - A book that builds your understanding of cryptography by revealing the “lockpicks” that bad actors use to exploit security protocols, firewalls, and other cryptography-based protection schemes.
 
 ### Courses
 
