@@ -240,7 +240,6 @@ A curated list of cryptography resources and links.
 ### Go
 
 - [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-- [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 - [dkeyczar](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 - [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 - [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
@@ -379,6 +378,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Rust
 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+- [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
 - [mundane](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
 - [ockam](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
