@@ -186,7 +186,7 @@ A curated list of cryptography resources and links.
 ### C++
 
 - [=nil; Crypto3](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
-- [Botan](https://botan.randombit.net/) - Cryptography library written in `C++11`.
+- [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
 - [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
@@ -379,6 +379,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Rust
 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+- [botan-rs](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 - [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
 - [mundane](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
