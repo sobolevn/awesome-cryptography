@@ -423,6 +423,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
 - [Salty Hash](https://blog.ironcorelabs.com) - Covers topics on encryption, data control, privacy, and security.
 - [Schneier on security](https://www.schneier.com/) - One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.
+- [Soatok's Blog](https://soatok.blog/category/cryptography/) - Insight and thoughts about cryptography, cryptanalysis and security in practice.
 
 ### Mailing lists
 
