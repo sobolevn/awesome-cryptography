@@ -50,6 +50,7 @@ A curated list of cryptography resources and links.
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
+  - [Scheme](#scheme)
   - [Swift](#swift)
 - [Resources](#resources)
   - [Blogs](#blogs)
@@ -402,6 +403,10 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [recrypt](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
 - [scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 - [tsec](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
+
+### Scheme
+
+- [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
 
 ### Swift
 
