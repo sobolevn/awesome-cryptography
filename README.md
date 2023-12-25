@@ -50,6 +50,7 @@ A curated list of cryptography resources and links.
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
+  - [Scheme](#scheme)
   - [Swift](#swift)
 - [Resources](#resources)
   - [Blogs](#blogs)
@@ -100,7 +101,7 @@ A curated list of cryptography resources and links.
 
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - The book covers many constructions for different tasks in cryptography.
 - [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - Introduction to modern cryptography.
-- [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028) - This cryptography classic provides you with a comprehensive survey of modern cryptography. 
+- [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028) - This cryptography classic provides you with a comprehensive survey of modern cryptography.
 - [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography.
 - [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world.
 - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - This book is intended as a reference for professional cryptographers.
@@ -387,7 +388,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [octavo](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
 - [orion](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
 - [proteus](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
-- [rage](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format. 
+- [rage](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 - [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 - [ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
 - [rust-crypto](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
@@ -402,6 +403,11 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [recrypt](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
 - [scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 - [tsec](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
+
+### Scheme
+
+- [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
+- [guile-ssh](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
 
 ### Swift
 
