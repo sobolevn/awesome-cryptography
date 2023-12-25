@@ -407,6 +407,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Scheme
 
 - [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
+- [guile-ssh](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
 
 ### Swift
 
