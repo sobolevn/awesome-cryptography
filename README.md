@@ -263,6 +263,7 @@ A curated list of cryptography resources and links.
 
 ### JavaScript
 
+- [@deliberative/crypto](https://github.com/deliberative/crypto) - Typescript/WebAssembly library for Ed25519 public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
 - [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
 - [bcrypt-Node.js](https://github.com/shaneGirish/bcrypt-Node.js) - Native implementation of bcrypt for Node.js.
 - [cifre](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
