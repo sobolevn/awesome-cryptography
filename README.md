@@ -45,6 +45,7 @@ A curated list of cryptography resources and links.
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [PHP](#php)
+  - [[Polylang]([url](https://github.com/polybase/polylang))]
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
