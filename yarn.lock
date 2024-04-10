@@ -64,9 +64,21 @@
   dependencies:
     "@types/estree" "*"
 
+"@types/estree-jsx@^1.0.0":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@types/estree-jsx/-/estree-jsx-1.0.5.tgz#858a88ea20f34fe65111f005a689fa1ebf70dc18"
+  dependencies:
+    "@types/estree" "*"
+
 "@types/estree@*":
   version "0.0.50"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.50.tgz#1e0caa9364d3fccd2931c3ed96fdbeaa5d4cca83"
+
+"@types/hast@^3.0.0":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@types/hast/-/hast-3.0.4.tgz#1d6b39993b82cea6ad783945b0508c25903e15aa"
+  dependencies:
+    "@types/unist" "*"
 
 "@types/is-empty@^1.0.0":
   version "1.2.1"
@@ -452,6 +464,13 @@ mdast-comment-marker@^2.0.0:
   dependencies:
     mdast-util-mdx-expression "^1.1.0"
 
+mdast-comment-marker@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-comment-marker/-/mdast-comment-marker-3.0.0.tgz#8233f27c985ac7be53678ecb453dd9648fa1b5c5"
+  dependencies:
+    "@types/mdast" "^4.0.0"
+    mdast-util-mdx-expression "^2.0.0"
+
 mdast-util-from-markdown@^1.0.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/mdast-util-from-markdown/-/mdast-util-from-markdown-1.2.0.tgz#84df2924ccc6c995dec1e2368b2b208ad0a76268"
@@ -497,6 +516,17 @@ mdast-util-mdx-expression@^1.1.0:
   resolved "https://registry.yarnpkg.com/mdast-util-mdx-expression/-/mdast-util-mdx-expression-1.1.1.tgz#657522e78b84f5c85cd2395776aba8dcfb7bbb0f"
   dependencies:
     "@types/estree-jsx" "^0.0.1"
+
+mdast-util-mdx-expression@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-mdx-expression/-/mdast-util-mdx-expression-2.0.0.tgz#4968b73724d320a379110d853e943a501bfd9d87"
+  dependencies:
+    "@types/estree-jsx" "^1.0.0"
+    "@types/hast" "^3.0.0"
+    "@types/mdast" "^4.0.0"
+    devlop "^1.0.0"
+    mdast-util-from-markdown "^2.0.0"
+    mdast-util-to-markdown "^2.0.0"
 
 mdast-util-phrasing@^4.0.0:
   version "4.0.0"
@@ -1176,7 +1206,15 @@ remark-lint-ordered-list-marker-style@^3.0.0:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint@^9.0.0, remark-lint@^9.1.2:
+remark-lint@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-10.0.0.tgz#161b24a18223a68ec2ed8d77e46015b5a0bd8bb5"
+  dependencies:
+    "@types/mdast" "^4.0.0"
+    remark-message-control "^8.0.0"
+    unified "^11.0.0"
+
+remark-lint@^9.0.0:
   version "9.1.2"
   resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-9.1.2.tgz#0781e273bba33fbfd26210b639b8a3702d65ad91"
   dependencies:
@@ -1193,6 +1231,15 @@ remark-message-control@^7.0.0:
     unified "^10.0.0"
     unified-message-control "^4.0.0"
     vfile "^5.0.0"
+
+remark-message-control@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/remark-message-control/-/remark-message-control-8.0.0.tgz#1d5880f33c05a65fcd60dcf0572b8198e9935d97"
+  dependencies:
+    "@types/mdast" "^4.0.0"
+    mdast-comment-marker "^3.0.0"
+    unified-message-control "^5.0.0"
+    vfile "^6.0.0"
 
 remark-parse@^10.0.0:
   version "10.0.1"
@@ -1292,6 +1339,10 @@ semver@^7.3.5:
 sliced@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/sliced/-/sliced-1.0.1.tgz#0b3a662b5d04c3177b1926bea82b03f837a2ef41"
+
+space-separated-tokens@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/space-separated-tokens/-/space-separated-tokens-2.0.2.tgz#1ecd9d2350a3844572c3f4a312bceb018348859f"
 
 string-width@^5.0.0:
   version "5.0.1"
@@ -1418,6 +1469,19 @@ unified-message-control@^4.0.0:
     vfile "^5.0.0"
     vfile-location "^4.0.0"
     vfile-message "^3.0.0"
+
+unified-message-control@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/unified-message-control/-/unified-message-control-5.0.0.tgz#7268a9a5d695c2591149ebe35e37eb200b852d7e"
+  dependencies:
+    "@types/unist" "^3.0.0"
+    devlop "^1.0.0"
+    space-separated-tokens "^2.0.0"
+    unist-util-is "^6.0.0"
+    unist-util-visit "^5.0.0"
+    vfile "^6.0.0"
+    vfile-location "^5.0.0"
+    vfile-message "^4.0.0"
 
 unified@^10.0.0, unified@^10.1.0:
   version "10.1.1"
@@ -1560,6 +1624,13 @@ vfile-location@^4.0.0:
   dependencies:
     "@types/unist" "^2.0.0"
     vfile "^5.0.0"
+
+vfile-location@^5.0.0:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-5.0.2.tgz#220d9ca1ab6f8b2504a4db398f7ebc149f9cb464"
+  dependencies:
+    "@types/unist" "^3.0.0"
+    vfile "^6.0.0"
 
 vfile-message@^3.0.0:
   version "3.0.2"
