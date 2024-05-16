@@ -390,6 +390,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [ockam](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 - [octavo](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
 - [orion](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
+- [password-hashes](https://github.com/RustCrypto/password-hashes) - Collection of password hashing algorithms, otherwise known as password-based key derivation functions, written in pure Rust.
 - [proteus](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 - [rage](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 - [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
@@ -397,7 +398,6 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [rust-crypto](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
 - [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
 - [rustls](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
-- [password-hashes](https://github.com/RustCrypto/password-hashes) - Collection of password hashing algorithms, otherwise known as password-based key derivation functions, written in pure Rust.
 - [signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519.
 - [snow](https://github.com/mcginty/snow?tab=readme-ov-file) - Pure Rust implementation of Trevor Perrin’s [Noise Protocol](https://noiseprotocol.org/noise.html).
 - [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
