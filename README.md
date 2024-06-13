@@ -361,6 +361,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
 - [Privy](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
+- [pycryptoprosdk](https://github.com/Keyintegrity/pycryptoprosdk) - Python wrapper on CryptoPro CSP SDK. CryptoPro CSP is a cryptographic software package which implements the Russian cryptographic algorithms developed in accordance with the Microsoft - Cryptographic Service Provider (CSP) interface.
 - [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
