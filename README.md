@@ -133,6 +133,7 @@ A curated list of cryptography resources and links.
 
 - [Awesome crypto-papers](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 - [Awesome HE](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
+- [TLS Cipher Suites](https://stellastra.com/cipher-suite) - A list of TLS cipher suites and their security ratings. 
 
 ## Tools
 
