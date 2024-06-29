@@ -404,6 +404,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 - [suruga](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
 - [webpki](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+- [ronkathon](https://github.com/pluto/ronkathon) - Educational, mathematically transparent, well documentated cryptography in rust.
 
 ### Scala
 
