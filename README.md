@@ -396,6 +396,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [rage](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 - [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 - [ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+- [ronkathon](https://github.com/pluto/ronkathon) - Educational, mathematically transparent, well documentated cryptography in rust.
 - [rust-crypto](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
 - [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
 - [rustls](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
@@ -404,7 +405,6 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 - [suruga](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
 - [webpki](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
-- [ronkathon](https://github.com/pluto/ronkathon) - Educational, mathematically transparent, well documentated cryptography in rust.
 
 ### Scala
 
