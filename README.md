@@ -366,6 +366,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [LightDSA](https://github.com/serengil/LightDSA) - Digital Signature Library supporting RSA, DSA, ECDSA and EdDSA
+- [LightECC](https://github.com/serengil/LightECC) - Elliptic Curve Cryptography Arithmetic Library supporting Weierstrass, Koblitz and Edwards forms and hundreds of custom curves
 
 ### R
 
