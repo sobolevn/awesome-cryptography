@@ -391,6 +391,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [formats](https://github.com/RustCrypto/formats) - Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX.
 - [hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
 - [mundane](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
+- [nullsec-cryptocheck](https://github.com/bad-antics/nullsec-cryptocheck) - Cryptographic implementation verifier and auditing tool written in Ada/SPARK for formal verification.
 - [ockam](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 - [octavo](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
 - [orion](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
@@ -408,7 +409,6 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 - [suruga](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
 - [webpki](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
-- [nullsec-cryptocheck](https://github.com/bad-antics/nullsec-cryptocheck) - Cryptographic implementation verifier and auditing tool written in Ada/SPARK for formal verification.
 
 ### Scala
 
