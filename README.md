@@ -148,6 +148,7 @@ A curated list of cryptography resources and links.
 - [Databunker](https://databunker.org/) - API based personal data or PII storage service built to comply with GDPR and CCPA.
 - [gpg](https://www.gnupg.org/) - Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 - [ironssh](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
+- [MOSS](https://github.com/mosscomputing/moss) - Cryptographic signing platform for AI agents using ML-DSA-44 (NIST FIPS 204) post-quantum signatures. Creates tamper-proof audit trails with offline verification.
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [sops](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 - [ves](https://ves.host/docs/ves-util) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
