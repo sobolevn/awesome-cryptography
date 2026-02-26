@@ -150,6 +150,7 @@ A curated list of cryptography resources and links.
 - [ironssh](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [sops](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+- [Vaulted](https://www.vaulted.fyi) - Client-side secret sharing using AES-256-GCM via Web Crypto API. Encryption key lives in URL fragment (never sent to server). Self-destructing links with view limits and optional passphrase wrapping.
 - [ves](https://ves.host/docs/ves-util) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 
 ### Plugins
