@@ -8,6 +8,7 @@
 
 A curated list of cryptography resources and links.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for cryptography workflow orchestration, automated security pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
