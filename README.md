@@ -354,6 +354,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Python
 
+- [asqav](https://github.com/jagmarques/asqav-sdk) - AI agent governance SDK using ML-DSA-65 (post-quantum) digital signatures for tamper-proof audit trails and policy enforcement.
 - [bcrypt](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
 - [charm](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
