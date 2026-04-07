@@ -456,7 +456,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) - is a set of cryptography related tools.
 - [CrypTool](http://www.cryptool-online.org/) - Great variety of ciphers, encryption methods and analysis tools are introduced, often together with illustrated examples.
 - [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
-- [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
+- [factordb.com](http://factordb.com/)
+- [Goosekit Hash Generator](https://goosekit.dev/hash-generator/) - Free online hash generator supporting MD5, SHA-1, SHA-256, SHA-512 and more. Runs 100% client-side, no signup, no data upload. - Factordb.com is tool used to store known factorizations of any number.
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
 
 ### Web-sites
