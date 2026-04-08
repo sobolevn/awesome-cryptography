@@ -246,6 +246,7 @@ A curated list of cryptography resources and links.
 - [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
 - [dkeyczar](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 - [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+- [gost-crypto](https://github.com/rekurt/gost-crypto) - Go library implementing Russian GOST cryptographic standards (GOST R 34.10 digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.
 - [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [kyber](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
 
