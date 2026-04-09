@@ -161,6 +161,7 @@ A curated list of cryptography resources and links.
 
 ### Playgrounds
 
+- [ECB Penguin](https://ecb-penguin.securityronin.com/) - Interactive AES encryption demo showing why ECB mode is insecure by encrypting Linux Tux side-by-side with ECB and GCM, with decryption, bit-flip attacks, block heatmap, and a real-world TLS attack timeline.
 - [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
 
 ## Frameworks and Libs
