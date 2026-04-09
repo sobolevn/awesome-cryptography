@@ -141,6 +141,7 @@ A curated list of cryptography resources and links.
 ### Standalone
 
 - [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
+- [BlazeHash](https://github.com/SecurityRonin/blazehash) - A multithreaded, memory-mapped forensic file hasher with BLAKE3 by default and drop-in hashdeep compatibility.
 - [blackbox](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
 - [certbot](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 - [Coherence](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
