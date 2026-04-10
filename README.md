@@ -138,6 +138,7 @@ A curated list of cryptography resources and links.
 
 ## Tools
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=sobolevn_awesome-cryptography) - Follow developers on GitHub and get a feed of what they star and build.
 ### Standalone
 
 - [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
