@@ -265,6 +265,7 @@ A curated list of cryptography resources and links.
 
 ### JavaScript
 
+- [@voidly/agent-sdk](https://www.npmjs.com/package/@voidly/agent-sdk) - TypeScript SDK implementing X3DH + Double Ratchet with hybrid X25519 + ML-KEM-768 (FIPS 203) key exchange, deniable HMAC auth, sealed sender, and padding.
 - [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
 - [bcrypt-Node.js](https://github.com/shaneGirish/bcrypt-Node.js) - Native implementation of bcrypt for Node.js.
 - [cifre](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
