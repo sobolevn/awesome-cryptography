@@ -458,6 +458,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 - [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
+- [QR9 Bcrypt](https://qr9.net/en/bcrypt) - Online bcrypt hash generator and verifier for testing password hashing parameters.
 
 ### Web-sites
 
