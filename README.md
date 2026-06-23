@@ -151,6 +151,7 @@ A curated list of cryptography resources and links.
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [sops](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 - [ves](https://ves.host/docs/ves-util) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+- [Bolt & Tempest](https://github.com/paim-creater/prng) — High-performance PRNGs: ADC-Bolt (70.3 Gbit/s non-crypto) and 4-cmul Tempest v3 (11.5 Gbit/s CSPRNG).Both pass NIST 15/15, TestU01 BigCrush+Crush, PractRand 1TiB.
 
 ### Plugins
 
