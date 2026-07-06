@@ -452,6 +452,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Web-tools
 
+- [Bitcoin Quantum Address Checker](https://infobitcoin.es/quantum-check/) - checks whether a Bitcoin address has its public key already exposed on-chain (the only thing a future quantum computer running Shor's algorithm could attack); runs fully client-side, the address never leaves the browser. EN + ES.
 - [Boxentriq](https://www.boxentriq.com/code-breaking) - Easy to use tools for analysis and code-breaking of the most frequent ciphers, including Vigenère, Beaufort, Keyed Caesar, Transposition Ciphers, etc.
 - [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) - is a set of cryptography related tools.
 - [CrypTool](http://www.cryptool-online.org/) - Great variety of ciphers, encryption methods and analysis tools are introduced, often together with illustrated examples.
