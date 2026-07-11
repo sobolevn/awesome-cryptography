@@ -143,6 +143,7 @@ A curated list of cryptography resources and links.
 - [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
 - [blackbox](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
 - [certbot](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+- [ClawSec](https://github.com/LF3551/ClawSec) - Encrypted networking toolkit with AES-256-GCM, X25519 and post-quantum hybrid (ML-KEM-768) key exchange, TUN VPN and TLS camouflage.
 - [Coherence](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 - [Databunker](https://databunker.org/) - API based personal data or PII storage service built to comply with GDPR and CCPA.
