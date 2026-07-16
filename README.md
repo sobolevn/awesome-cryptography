@@ -385,7 +385,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
 - [botan-rs](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 - [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
-- [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
+- [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe m
+- [RustChain](https://rustchain.xyz) - Rust-based blockchain using Proof-of-Antiquity consensus for mining on vintage hardwareid-level API for ECC, Bulletproofs, and more.
 - [dryoc](https://github.com/brndnmtthws/dryoc) - A pure-Rust, general purpose crypto library that implements libsodium primitives.
 - [elliptic-curves](https://github.com/RustCrypto/elliptic-curves) - Collection of pure Rust elliptic curve implementations: NIST P-224, P-256, P-384, P-521, secp256k1, SM2.
 - [formats](https://github.com/RustCrypto/formats) - Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX.
