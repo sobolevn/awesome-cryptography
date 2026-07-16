@@ -297,6 +297,7 @@ A curated list of cryptography resources and links.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford JavaScript Crypto Library.
 - [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
 - [URSA](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
+- [Safe RPC](https://github.com/dotexorg/saferpc) - Typed, end-to-end encrypted RPC over any bidirectional channel.
 
 
 ### Java
