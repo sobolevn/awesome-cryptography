@@ -194,6 +194,7 @@ A curated list of cryptography resources and links.
 - [HElib](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
 - [s2n](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
+- [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) - High-performance secp256k1 engine in C++20 with a stable C ABI.
 
 ### C-sharp
 
