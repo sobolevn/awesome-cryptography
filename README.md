@@ -248,6 +248,7 @@ A curated list of cryptography resources and links.
 - [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 - [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [kyber](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
+- [secretgenerator](https://github.com/rafaelperoco/secretgenerator) - CSPRNG-backed credential generator with versioned JSON schema, entropy floors, and Go library API.
 
 
 ### Haskell
