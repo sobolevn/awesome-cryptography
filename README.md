@@ -367,6 +367,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 - [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity consensus blockchain using Ed25519 signatures, BIP39 seed phrases, Blake2b256 commitment hashes, and hardware fingerprinting (clock drift, cache timing, SIMD profiling) for anti-emulation attestation.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### R
