@@ -114,6 +114,11 @@ A curated list of cryptography resources and links.
 - [The Code Book](https://simonsingh.net/books/the-code-book/) - This book is a digest of the history of cryptography, covering both ancient times, and newer cryptography methods. There are exercises at the end and the solution of those was rewarded with $10.000.
 - [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security.
 - [Understanding Cryptography](http://www.crypto-textbook.com/) - Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.
+- [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity) - In Self-Sovereign Identity: Decentralized digital identity and verifiable credentials, you’ll learn how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities.
+- [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods.
+- [Making Sense of Cyebersecurity](https://www.manning.com/books/making-sense-of-cybersecurity) - A jargon-busting guide to the key concepts, terminology, and technologies of cybersecurity.
+- [Implementing and Exploiting Cryptography](https://www.manning.com/books/implementing-and-exploiting-cryptography) - A book that builds your understanding of cryptography by revealing the “lockpicks” that bad actors use to exploit security protocols, firewalls, and other cryptography-based protection schemes.
+- [Elliptic Curve Cryptography for Developers](https://www.manning.com/books/elliptic-curve-cryptography-for-developers) - A book that book empowers anyone who knows basic calculus to implement state-of-the-art cryptographic protocols that are smaller and more secure than RSA-based systems.
 
 ### Courses
 
