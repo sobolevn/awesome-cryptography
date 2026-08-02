@@ -266,6 +266,7 @@ A curated list of cryptography resources and links.
 ### JavaScript
 
 - [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
+- [awasm-noble](https://github.com/paulmillr/awasm-noble) - auditable WASM library for hashes & ciphers, aiming to be the fastest, with 10.1 GB/s BLAKE3, 6 GB/s ChaCha20
 - [bcrypt-Node.js](https://github.com/shaneGirish/bcrypt-Node.js) - Native implementation of bcrypt for Node.js.
 - [cifre](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
 - [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
