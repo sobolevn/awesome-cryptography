@@ -203,6 +203,7 @@ A curated list of cryptography resources and links.
 - [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
 - [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
 - [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+- [cas-dotnet-sdk](https://github.com/Cryptographic-API-Services/cas-dotnet-sdk) - .NET Cryptographic wrapper for the RustCrypto and Dalek-Cryptography crates.
 
 ### Clojure
 
