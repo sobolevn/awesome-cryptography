@@ -458,6 +458,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 - [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
+- [Text Machine](https://textmachine.org/) - Free, in-browser encoders/decoders for classical ciphers (Caesar and Vigenère through Bazeries, Chaocipher, and the Straddling Checkerboard); fully client-side, no signup.
 
 ### Web-sites
 
