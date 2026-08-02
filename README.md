@@ -27,6 +27,7 @@ A curated list of cryptography resources and links.
     - [Git](#git)
   - [Playgrounds](#playgrounds)
 - [Frameworks and Libs](#frameworks-and-libs)
+  - [Ballerina](#ballerina)
   - [C](#c)
   - [C#](#c-sharp)
   - [C++](#c-1)
@@ -164,6 +165,10 @@ A curated list of cryptography resources and links.
 - [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
 
 ## Frameworks and Libs
+
+### Ballerina
+
+- [ballerina-crypto](https://github.com/ballerina-platform/module-ballerina-crypto) - The Official Ballerina Crypto Standard Library.
 
 ### C
 
