@@ -178,7 +178,7 @@ A curated list of cryptography resources and links.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
 - [nettle](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
-- [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
+- [PolarSSL (Mbed TLS)](https://github.com/Mbed-TLS/mbedtls) - PolarSSL (now Mbed TLS) makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 - [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
@@ -222,7 +222,7 @@ A curated list of cryptography resources and links.
 - [DelphiEncryptionCompendium](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 - [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
 - [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
-- [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
+- [TForge](https://github.com/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
 
 ### Elixir
 
@@ -426,7 +426,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Swift
 
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
-- [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+- [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://github.com/apple-oss-distributions/CommonCrypto) library written in Swift.
 - [OpenSSL](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for macOS and Linux.
 - [SweetHMAC](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 - [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
@@ -448,8 +448,6 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 - [metzdowd.com](http://www.metzdowd.com/mailman/listinfo/cryptography) - "Cryptography" is a low-noise moderated mailing list devoted to cryptographic technology and its political impact.
 - [Modern Crypto](https://moderncrypto.org/) - Forums for discussing modern cryptographic practice.
-- [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) - List for general discussion of cryptography, particularly the technical aspects.
-
 ### Web-tools
 
 - [Boxentriq](https://www.boxentriq.com/code-breaking) - Easy to use tools for analysis and code-breaking of the most frequent ciphers, including Vigenère, Beaufort, Keyed Caesar, Transposition Ciphers, etc.
@@ -458,10 +456,12 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 - [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
+- [Smart Formatter - MD5 & SHA Checksum](https://smartformatter.com/tools/md5-sha256-checksum) - Free online tool to generate MD5, SHA-1, SHA-256, and SHA-512 hashes and verify file checksums.
+- [Smart Formatter - URI Encoder & Decoder](https://smartformatter.com/tools/encodeuricomponent) - Client-side tool to encode and decode URLs and URI components safely in the browser.
 
 ### Web-sites
 
-- [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
+- [Applied Crypto Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) - A lot ready to use best practice examples for securing web servers and more.
 - [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A dashboard of most active cryptocurrencies discussed on Reddit.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
 - [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
