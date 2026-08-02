@@ -320,6 +320,7 @@ algorithm.
 
 ### Julia
 
+- [ASN1.jl](https://github.com/bad-antics/ASN1.jl) - ASN.1/DER/BER encoder-decoder with X.509 certificate parsing for Julia.
 - [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - Library that wraps OpenSSL, but also has pure Julia implementations for reference.
 - [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
 - [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
