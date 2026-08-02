@@ -362,6 +362,9 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [django-cryptography](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 - [ecdsa](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
 - [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
+- [LightDSA](https://github.com/serengil/LightDSA) - Digital Signature Library supporting RSA, DSA, ECDSA and EdDSA.
+- [LightECC](https://github.com/serengil/LightECC) - Elliptic Curve Cryptography Arithmetic Library supporting Weierstrass, Koblitz and Edwards forms and hundreds of custom curves.
+- [LightPHE](https://github.com/serengil/LightPHE) - Partially Homomorphic Encryption Library supporting RSA, ElGamal, Exponential ElGamal, Elliptic Curve ElGamal, Paillier, Damgard-Jurik, Okamoto–Uchiyama, Benaloh, Naccache–Stern, Goldwasser–Micali.
 - [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
 - [Privy](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
