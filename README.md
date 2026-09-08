@@ -361,6 +361,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 - [django-cryptography](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 - [ecdsa](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
+- [gun101](https://github.com/dialga-cmd/gun101) - A simple, secure file encryption tool using AES-256-GCM and Argon2id.
 - [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
 - [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
 - [Privy](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
