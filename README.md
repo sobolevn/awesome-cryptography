@@ -273,6 +273,7 @@ A curated list of cryptography resources and links.
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for Node.js.
 - [forge](https://github.com/digitalbazaar/forge) - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
+- [fractal-pqc](https://www.npmjs.com/package/fractal-pqc) - Runnable reference for quantum-safe migration of a Bitcoin-style key: binds a secp256k1/Taproot key to ML-DSA-65 (FIPS 204), derives P2TR addresses and signs BIP-341 key-path spends against the official test vectors.
 - [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for encrypting to users or groups, and easily adding strong data controls to Node.js apps.
 - [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for easily managing end-to-end encryption securely in the browser.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
