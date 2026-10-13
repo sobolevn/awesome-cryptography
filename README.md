@@ -293,6 +293,7 @@ A curated list of cryptography resources and links.
 - [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for Node.js.
 - [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
 - [PolyCrypt](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
+- [shieldfive/crypto](https://github.com/shieldfive/crypto) - Post-quantum hybrid client-side file encryption (ML-KEM-1024, XChaCha20-Poly1305, Argon2id) with a versioned, self-describing format, built on noble.
 - [rusha](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford JavaScript Crypto Library.
 - [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
