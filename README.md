@@ -162,6 +162,7 @@ A curated list of cryptography resources and links.
 ### Playgrounds
 
 - [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
+- [provably-fair-verifier](https://github.com/cryptoplayguide/provably-fair-verifier) - Browser tool showing how HMAC-SHA256 commit-reveal seeds produce verifiable game outcomes, using Web Crypto.
 
 ## Frameworks and Libs
 
