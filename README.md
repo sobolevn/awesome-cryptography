@@ -162,6 +162,7 @@ A curated list of cryptography resources and links.
 ### Playgrounds
 
 - [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
+- [Affi-Chain Crypto Suite](https://www.affichain.com/crypto) - In-browser cryptographic playground featuring AES-256 encryption, RSA key generation, HMAC, and SHA-256 hashing with zero server transmission.
 
 ## Frameworks and Libs
 
