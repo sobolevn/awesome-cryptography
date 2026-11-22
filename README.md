@@ -281,6 +281,7 @@ A curated list of cryptography resources and links.
 - [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
 - [jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [kruptein](https://github.com/jas-/kruptein) - Authenticated symmetric encryption for Node.js with AEAD ciphers, Argon2id/scrypt/PBKDF2 key derivation and ASN.1 DER output.
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
 - [libVES.js](https://github.com/vesvault/libVES) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 - [micro-rsa-dsa-dh](https://github.com/paulmillr/micro-rsa-dsa-dh) - Minimal implementation of older cryptography algorithms: RSA, DSA, DH, ElGamal.
